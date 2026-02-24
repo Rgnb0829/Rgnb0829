@@ -24,7 +24,9 @@
 [![](https://visitcount.itsvg.in/api?id=rgnb0829&icon=1&color=13)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/rakhawn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Sembagi Arutala) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/rakhawn) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SembagiArutala) 
+
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c7615992ec1a8a73c0cb77?variant=dark&roadmaps=full-stack%2Csql%2Cpostgresql-dba%2Cdatastructures-and-algorithms" alt="roadmap.sh"/></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
